@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BingoGame.App", "BingoGame\BingoGame.App.csproj", "{797B01AC-7641-472B-AA05-9C4E35DA9CEF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BingoGame.App", "BingoGame.App\BingoGame.App.csproj", "{797B01AC-7641-472B-AA05-9C4E35DA9CEF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BingoGame.Core", "BingoGame.Core\BingoGame.Core.csproj", "{82D72178-CAA9-4BA7-9EA6-A893F62CAE47}"
 EndProject
