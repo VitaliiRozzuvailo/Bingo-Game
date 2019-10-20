@@ -6,3 +6,6 @@ Game flow:
 drawn (range 1 to 52 as well).
 - Selected number in the board should be marked (if exists).
 - Player must make a horizontal, diagonal OR vertical line to get a BINGO.
+
+
+Author: Vitalii Rozzuvailo
